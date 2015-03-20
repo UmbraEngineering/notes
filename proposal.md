@@ -41,3 +41,14 @@ Yes, this is a very ambitious project idea. Yes, it will take a while to finish.
 
 
 
+## Amendments
+
+- We should support formatting printables (like order slips for a kitchen, or receipts)
+- We should support the splitting of tickets (so you can have multiple separate payments for portions of a bill) as well as the ability to add to an existing order in a way that does not complicate already in process tasks. (for example, adding a dessert to someone's order after they have finished eating should proc events like sending the dessert order to the appropriate kitchen, but should not re-proc events like sending the original dinner order to the kitchen. we will need to decide what the appropriate way of handling amendments is while still keeping orders and tickets organized.)
+
+
+
+
+
+
+
